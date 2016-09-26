@@ -35,10 +35,10 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Berrydock Mini"
+Date "2016-09-26"
+Rev "Rev. A"
+Comp "Berryelectronics"
 Comment1 ""
 Comment2 ""
 Comment3 ""
