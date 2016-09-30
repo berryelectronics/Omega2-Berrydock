@@ -288,7 +288,7 @@ F 3 "" H 10000 1350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 9650 2300 0    60   ~ 0
-Select 5V Source:\nETH or USB or LIPO\n
+Select 5V Source:\nUSB or ETH or LIPO\n
 Text Notes 6500 1050 0    60   ~ 0
 ETH to 5V Regulator
 $Comp
@@ -3194,4 +3194,15 @@ NoConn ~ 14350 7050
 NoConn ~ 14350 6950
 NoConn ~ 14350 6650
 NoConn ~ 14350 6550
+$Comp
+L SIMPLELOGO G1
+U 1 1 57EEE161
+P 12750 9500
+F 0 "G1" H 12750 9280 60  0001 C CNN
+F 1 "SIMPLELOGO" H 12750 9720 60  0001 C CNN
+F 2 "Omega2-Berrydock:simplelogo" H 12750 9500 60  0001 C CNN
+F 3 "" H 12750 9500 60  0001 C CNN
+	1    12750 9500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

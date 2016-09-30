@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SWITCH_INV
+D inverseur
+K switch
+$ENDCMP
+#
+$CMP SW_PUSH_SMALL_H
+D Button
+K switch
+$ENDCMP
+#
 #End Doc Library
